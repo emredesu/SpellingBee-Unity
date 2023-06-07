@@ -1,0 +1,25 @@
+{
+    "questions": [
+        {
+            "question": "How many fingers are there in one hand?",
+            "wordType": "Noun",
+            "answer": "five",
+            "pointValue": 10,
+            "timeGiven": 90
+        },
+        {
+            "question": "How many days are there in one week?",
+            "wordType": "Noun",
+            "answer": "seven",
+            "pointValue": 15,
+            "timeGiven": 120
+        },
+        {
+            "question": "What do you call a female person that is nice to look at?",
+            "wordType": "Noun",
+            "answer": "beautiful",
+            "pointValue": 20,
+            "timeGiven": 60
+        }
+    ]
+}
